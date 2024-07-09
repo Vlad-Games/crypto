@@ -1,0 +1,9 @@
+{
+  "name": "Santa", 
+  "symbol": "SANTA",
+  "uri": "https://raw.githubusercontent.com/Vlad-Games/crypto/main/token_uri.json",
+  "sellerFeeBasisPoints": 0,
+  "creators": null,
+  "collection": null,
+  "uses": null
+}
